@@ -19,6 +19,6 @@
 	<p>Lowe, M.X., Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in 			object and scene interactions, Vision Research, 117, 34-40*	
 		<br>*Featured on the journal cover</p>
 	</body>
-</html>
+</html> 
 
   
