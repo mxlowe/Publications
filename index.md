@@ -1,6 +1,6 @@
 <html>
 	<body>
-		<nav>
+		<nav> 
     		<ul> 
         		<h3><li><a href="/Home">Home</a>  /   <a href="/CV">CV</a>  /   <a href="/Publications">Publications</a></li></h3> 
         	 
