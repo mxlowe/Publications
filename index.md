@@ -7,8 +7,7 @@
         		
     		</ul>
 		</nav>
-
-<h5>Publications</h5>                                                                                                                     
+                                                                                                              
 	<p>Lowe, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface 			properties in object and scene perception, NeuroImage, 157, 586-597*
 		<br>*Featured on the journal cover</p>
 	<p>Robin, J., Lowe, M.X., Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits 		in a case of topographical disorientation, Cortex, 92, 70-80</p>
