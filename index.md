@@ -2,7 +2,7 @@
 	<body>
 		<nav> 
     		<ul>
-        		<h4><li><a href="/Home">Home</a>  /   <a href="/cv">CV</a>  /   <a href="/publications">Publications</a></li></h4>
+        		<h3><li><a href="/Home">Home</a>  /   <a href="/cv">CV</a>  /   <a href="/publications">Publications</a></li></h3>
         	 
         		
     		</ul>
