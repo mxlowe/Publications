@@ -3,7 +3,8 @@
 	<title>Matthew X. Lowe</title>
 	</head>
 	<body>
-
+<br>
+<br>
 <h4>2017</h4>
 	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> <strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597* 
 	<br><strong>*Featured on the journal cover</strong>
