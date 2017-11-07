@@ -5,7 +5,7 @@
 	<body>
 
 <h4>2017</h4>
-	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> <strong>Lowe</strong>, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <i>NeuroImage</>, 157, 586-597* 
+	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> <strong>Lowe</strong>, M.X., Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <i>NeuroImage</i>, 157, 586-597* 
 		<br>*Featured on the journal cover
 		<br><a href="https://drive.google.com/file/d/0B0k7R9wesPi2TFUyazA0bTU1cVE/view?usp=sharing">PDF</a></p>
 	<br>
