@@ -30,7 +30,5 @@
 		<br><a href="https://drive.google.com/file/d/0B0k7R9wesPi2ZnhHR0xKc0VuSDA/view?usp=sharing">PDF</a></p>
 		<br>
 		<br>
-	</body>
-</html> 
 
   
