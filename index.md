@@ -5,7 +5,7 @@
 	<body>
 <br>
 <br>
-<h4>2018</h4>
+<h3>2018</h3>
 		<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (<em>in press</em>). Discriminating scene categories from brain activity within 100ms*, <em>Cortex</em>
 		<br><strong>*To be featured on the journal cover</strong>
 <h4>2017</h4>
