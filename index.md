@@ -7,7 +7,7 @@
 <br>
 <h4>2018</h4>
 		<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (<em>in press</em>). Discriminating scene categories from brain activity within 100ms*, <em>Cortex</em>
-		<br><strong>*Featured on the journal cover</strong>
+		<br><strong>*To be featured on the journal cover</strong>
 <h4>2017</h4>
 	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> <strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597* 
 	<br><strong>*Featured on the journal cover</strong>
