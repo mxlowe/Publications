@@ -7,6 +7,7 @@
 <br>
 <h3>2018</h3>
 				<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (<em>in press</em>). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>
+		<br><a href="<br><a href="https://drive.google.com/file/d/1BLLHLRK4jqbsN6x92eggpSorurFbD0lc/view?usp=sharing">PDF</a></p>">PDF</a></p>
 		<br>
 		<p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (2018). Discriminating scene categories from brain activity within 100 milliseconds, <em>Cortex</em>, 106C, 275-287*
 		<br><strong>*To be featured on the journal cover</strong>
