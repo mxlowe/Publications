@@ -6,6 +6,7 @@
 <br>
 <br>
 <h3>2018</h3>
+		<p>Assaf, H., Mzozoyana, M., Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S., and Ferber, S. (under review). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception
 				<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1674
 		<br><a href="https://drive.google.com/file/d/12otmHFOeYiuYHZbYw6Q7qT9jTMVGv_LQ/view?usp=sharing">PDF</a></p>
 		<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945218X00070-cov150h.gif"> <p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (2018). Discriminating scene categories from brain activity within 100 milliseconds, <em>Cortex</em>, 106C, 275-287*
