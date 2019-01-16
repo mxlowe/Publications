@@ -6,6 +6,7 @@
 <br>
 <br>
 <h3>2019</h3>
+		<p><strong>Lowe, M.X.</strong>, Mohsenzadeha, Y., Lahner, B., Teng, S., Charest, I., and Oliva, A. (in preparation) Neural dynamics of human auditory representations in space and time </p>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (under review). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception </p>
 <h3>2018</h3>
 		<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1674
