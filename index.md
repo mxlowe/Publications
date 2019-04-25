@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>2019</h3>
-		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y., Lahner, B., Teng, S., Charest, I., and Oliva, A. (in preparation) Neural dynamics of human auditory representations in space and time </p>
+		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y., Lahner, B., Teng, S., Charest, I., and Oliva, A. (in preparation) Spatiotemporal dynamics of sound representations in the human brain. </p>
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review) Individual differences in visual attention: Conscientiousness and selective attention</p>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (under review). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception </p>
 <h3>2018</h3>
