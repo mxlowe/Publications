@@ -6,9 +6,9 @@
 <br>
 <br>
 <h3>2019</h3>
-		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y., Lahner, B., Charest, I., Oliva, A, and Teng, S. (in preparation) Spatiotemporal dynamics of sound representations reveals a progression of category selectivity.</p>
-		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y. (in preparation) A neural time signature of visual imagery in the human brain.</p>
-		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review) Individual differences in visual attention: Conscientiousness and selective attention</p>
+		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y., Lahner, B., Charest, I., Oliva, A, and Teng, S. (in preparation). Spatiotemporal dynamics of sound representations reveals a progression of category selectivity.</p>
+		<p><strong>Lowe, M.X.</strong>, Mohsenzadeh, Y. (in preparation). A neural time signature of visual imagery in the human brain.</p>
+		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention</p>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (under review). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception </p>
 <h3>2018</h3>
 		<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1674
