@@ -10,7 +10,7 @@
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
 
 
-<h3>2018</h3>
+<h3>2020</h3>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (in press). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em></p>
 
 <h3>2018</h3>
