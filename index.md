@@ -11,7 +11,7 @@
 
 
 <h3>2020</h3>
-		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (in press). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em></p>
+		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (2020). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em>, 141, 107434
 		<br><a href="https://drive.google.com/file/d/1mIV4DYXxVWtsVRCLz2nE2cpyrjoRHthB/view?usp=sharing">PDF</a></p>
 		
 
