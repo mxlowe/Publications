@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>Forthcoming</h3>
-		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (in preparation). Spatiotemporal dynamics of sound representations reveals a progression of category selectivity. </p>
+		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (submitted). Spatiotemporal Dynamics of Sound Representations Reveal a Hierarchical Progression of Category Selectivity. </p>
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
 
 
