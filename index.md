@@ -6,13 +6,16 @@
 <br>
 <br>
 <h3>Forthcoming</h3>
-		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (submitted). Spatiotemporal Dynamics of Sound Representations Reveal a Hierarchical Progression of Category Selectivity. </p>
+
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
 
 
 <h3>2020</h3>
+
+		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (2020). Spatiotemporal Dynamics of Sound Representations Reveal a Hierarchical Progression of Category Selectivity. <em>BioRxiv</em></p>
+		<br><a href="https://drive.google.com/file/d/1FNZI5bWfuw66s94jEW6B7klwMHiF2UD1/view?usp=sharing">PDF</a></p>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (2020). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em>, 141, 107434
-		<br><a href="https://drive.google.com/file/d/1mIV4DYXxVWtsVRCLz2nE2cpyrjoRHthB/view?usp=sharing">PDF</a></p>
+		
 		
 
 <h3>2018</h3>
