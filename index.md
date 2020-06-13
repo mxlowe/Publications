@@ -12,7 +12,7 @@
 
 <h3>2020</h3>
 
-		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (2020). Spatiotemporal Dynamics of Sound Representations Reveal a Hierarchical Progression of Category Selectivity. <em>BioRxiv</em>
+		<p><strong>Lowe, M.X.*</strong>, Mohsenzadeh, Y.*, Lahner, B., Charest, I., Oliva, A^, and Teng, S^. (2020). Spatiotemporal Dynamics of Sound Representations Reveal a Hierarchical Progression of Category Selectivity. <em>BioRxiv</em> doi: https://doi.org/10.1101/2020.06.12.149120
 		<br><a href="https://drive.google.com/file/d/1FNZI5bWfuw66s94jEW6B7klwMHiF2UD1/view?usp=sharing">PDF</a>
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (2020). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em>, 141, 107434
 		<br><a href="https://drive.google.com/file/d/1mIV4DYXxVWtsVRCLz2nE2cpyrjoRHthB/view?usp=sharing">PDF</a></p>
