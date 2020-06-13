@@ -19,8 +19,8 @@
 		<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1674 <a href="https://drive.google.com/file/d/12otmHFOeYiuYHZbYw6Q7qT9jTMVGv_LQ/view?usp=sharing">PDF Link</a></p>
 		<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S0010945218X00070-cov150h.gif"> <p><strong>Lowe, M.X., </strong> Rajsic, J., Ferber, S., and Walther, D.B. (2018). Discriminating scene categories from brain activity within 100 milliseconds, <em>Cortex</em>, 106C, 275-287*
 		<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/1BLLHLRK4jqbsN6x92eggpSorurFbD0lc/view?usp=sharing">PDF Link</a></p>
-<h3>2017</h3>
 <br>
+<h3>2017</h3>
 	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811917X00116-cov150h.gif"> <strong>Lowe, M.X.</strong>, Rajsic, J., Gallivan, J.P., Ferber, S., and Cant, J.S. (2017). Neural representation of geometry and surface properties in object and scene perception, <em>NeuroImage</em>, 157, 586-597* 
 	<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/0B0k7R9wesPi2TFUyazA0bTU1cVE/view?usp=sharing">PDF Link</a></p>
 
