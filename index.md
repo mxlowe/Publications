@@ -6,7 +6,8 @@
 <br>
 <br>
 <h3>Forthcoming</h3>
-
+		
+		<p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(under review). Shared cognitive mechanisms involved in the processing of scene texture and scene shape.</p>
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
 
 
