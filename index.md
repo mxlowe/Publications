@@ -16,7 +16,7 @@
 
 <h3>2021</h3>
 
-<p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(2021). Shared cognitive mechanisms involved in the processing of scene texture and scene shape. <em>Journal of Vision</em><a href="https://drive.google.com/file/d/1xdWr8yVReKOrtQwWXaedjn2wKqixrHQF/view?usp=sharing">PDF Link</a></p>
+<p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(2021). Shared cognitive mechanisms involved in the processing of scene texture and scene shape. <em> Journal of vision </em>, 21(7), 11-11.<a href="https://drive.google.com/file/d/1xdWr8yVReKOrtQwWXaedjn2wKqixrHQF/view?usp=sharing">PDF Link</a></p>
 
 <h3>2020</h3>
 
