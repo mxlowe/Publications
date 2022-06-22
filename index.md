@@ -12,11 +12,11 @@
 		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
 <h3>2022</h3>
 
-<p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (In Press). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology </em> </p>
+<p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (In Press). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
 
 <h3>2021</h3>
 
-<p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(2021). Shared cognitive mechanisms involved in the processing of scene texture and scene shape. <em>Journal of Vision</em></p>
+<p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(2021). Shared cognitive mechanisms involved in the processing of scene texture and scene shape. <em>Journal of Vision</em><a href="https://drive.google.com/file/d/1FNZI5bWfuw66s94jEW6B7klwMHiF2UD1/view?usp=sharing">PDF Link</a></p>
 
 <h3>2020</h3>
 
