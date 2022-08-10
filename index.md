@@ -5,11 +5,7 @@
 	<body>
 <br>
 <br>
-<h3>Forthcoming</h3>
-		
-	
-	
-		<p>Wilson, K., Sun, S.Z., Emrich, S., <strong>Lowe, M.X.</strong>, Kosnik, R., Ruppel. J., and Ferber, S.(under review). Individual differences in visual attention: Conscientiousness and selective attention.</p>
+
 <h3>2022</h3>
 
 <p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (2022). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology. </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
