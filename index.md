@@ -5,6 +5,9 @@
 	<body>
 <br>
 <br>
+<h3>Forthcoming</h3>
+
+		<p>Brett, B., Conroy, M., Doshi, H.,; <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (submitted). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p>
 
 <h3>2022</h3>
 
