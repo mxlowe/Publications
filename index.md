@@ -6,7 +6,7 @@
 <br>
 <br>
 <h3>Forthcoming</h3>
-
+		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Zaki, H., Brasher, T.J., <strong> Lowe, M.X. </strong>, Jolly, D.R.P., Jackson, H., Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Garcia-Romeu, A. (in preparation). A Prospective, Longitudinal Survey Study of Naturalistic Psilocybin Use. </p>
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (submitted). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p>
 
 <h3>2022</h3>
