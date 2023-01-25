@@ -6,9 +6,9 @@
 <br>
 <br>
 <h3>Forthcoming</h3>
-		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Zaki, H., Brasher, T.J., <strong> Lowe, M.X.</strong>, Jolly, D.R.P., Jackson, H., Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Garcia-Romeu, A. (in preparation). A Prospective, Longitudinal Survey Study of Naturalistic Psilocybin Use. </p>
-		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (submitted). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p>
-
+		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Zaki, H.,<strong> Lowe, M.X.</strong>, Jolly, D.R.P., Jackson, H., Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Garcia-Romeu, A. (in preparation). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being. </p>\
+		
+		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (submitted). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
 <h3>2022</h3>
 
 <p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (2022). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology. </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
