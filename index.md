@@ -8,9 +8,9 @@
 <h3>Forthcoming</h3>
 			<p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(in preparation). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca. </p>
 		
-		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (submitted). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. </p>
+		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (under review). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. </p>
 		
-		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (submitted). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
+		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
 <h3>2022</h3>
 
 <p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (2022). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology. </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
