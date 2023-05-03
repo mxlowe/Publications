@@ -8,6 +8,8 @@
 <h3>Forthcoming</h3>
 			<p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(in preparation). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca. </p>
 		
+		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (in preparation). Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study. </p>
+		
 		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (under review). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. </p>
 		
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
