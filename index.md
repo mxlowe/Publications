@@ -34,7 +34,6 @@
 <p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811915X00188-cov150h.gif"> <strong>Lowe, M.X.</strong>, Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human scene-selective cortex, <em>NeuroImage</em>, 125, 681-692* 
 		<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/0B0k7R9wesPi2V2M5NnAwWmJwazg/view?usp=sharing&resourcekey=0-Q7B9YE6gD538r5oDaYPEsQ">PDF Link</a></p>
 
-<br>
 <h3>Experimental Psychology</h3>
 
   <p>Tharmaratnam, V., Patel, M., <strong>Lowe, M.X.</strong>, and Cant, J.S.(2021). Shared cognitive mechanisms involved in the processing of scene texture and scene shape. <em> Journal of vision </em>, 21(7), 11-11. <a href="https://drive.google.com/file/d/1xdWr8yVReKOrtQwWXaedjn2wKqixrHQF/view?usp=sharing">PDF Link</a></p>
