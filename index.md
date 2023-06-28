@@ -6,7 +6,7 @@
 <br>
 <br>
 
-Matthew X. Lowe, Ph.D., has published on a range of topics in psychedelics, cannabis, visual and auditory neuroscience, and experimental psychology. His earlier work at the University of Toronto and MIT focused on topics of cognitive neuroscience and experimental psychology, while his more recent work investigates health outcomes associated with psychoactive substances such as psiloycbin, ayahuasca, and cannabis.
+Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual and auditory neuroscience, and experimental psychology. His earlier work at the University of Toronto and MIT focused on topics of cognitive neuroscience and experimental psychology, while his more recent work investigates health outcomes associated with psychoactive substances such as psiloycbin, ayahuasca, and cannabis.
   
 <h3>Psychedelics</h3>
 			<p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(in preparation). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca. </p>
