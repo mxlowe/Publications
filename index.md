@@ -50,7 +50,6 @@
 	<p><strong>Lowe, M.X.</strong>, Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and Ferber, S. (2016). Sensory processing patterns predict the integration of information held in visual working memory, <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 42(2), 294-301 <a href="https://drive.google.com/file/d/0B0k7R9wesPi2aHZON094TkVtdVU/view?usp=sharing&resourcekey=0-ADZqy2bnylrVtYiqiVUBlQ">PDF Link</a></p>
 	
 	<p>Wilson, K.E., <strong>Lowe, M.X.</strong>, Ruppel, J., Pratt, J., and Ferber, S. (2016). The scope of no return: Openness predicts the spatial distribution of Inhibition of Return, <em>Attention, Perception, & Psychophysics</em>, 78, 209-217 ><a href="https://drive.google.com/file/d/0B0k7R9wesPi2aTd0NUF2M2R3VmM/view?usp=sharing&resourcekey=0-jSu_jnLnHG6v5aEnJdQtgA">PDF Link</a></p>
-<h3>2015</h3>
 		
 	<p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S0042698915X00174-cov150h.gif"><strong>Lowe, M.X.</strong>, Ferber, S., and Cant, J.S. (2015). Processing context: Asymmetric interference of visual form and texture in object and scene interactions, <em>Vision Research</em>, 117, 34-40*	
 		<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/0B0k7R9wesPi2VjQwSnBOX2I1OEE/view?usp=sharing&resourcekey=0-JEjHCBtcBCi56IJHwTRXdg">PDF Link</a></p>
