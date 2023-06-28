@@ -11,14 +11,18 @@
 		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (in preparation). Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study. <a href="https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link">PDF Link to Preprint</a> </p>
 		
 		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (under review). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. </p>
+  <br>
 
   <h3>Cannabis</h3>
 		
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
-  
+
+  <br>
 <h3>Auditory Cortex</h3>
 
 <p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (2022). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology. </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
+
+<br>
 
 <h3>Visual Cortex</h3>
 
@@ -29,10 +33,11 @@
 	<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/0B0k7R9wesPi2bTA5czZzQ2lCUm8/view?usp=sharing&resourcekey=0-cq0bNlyt5E6fOyHU1Q1YuQ">PDF Link</a></p>
 
  <p>Robin, J., <strong>Lowe, M.X.</strong>, Pishdadian, S., Rivest, J., Cant, J.S., & Moscovitch, M. (2017). Selective scene perception deficits in a case of topographical disorientation, <em>Cortex</em>, 92, 70-80 <a href="https://drive.google.com/file/d/0B0k7R9wesPi2aFhBcXA5dmNKSUE/view?usp=sharing&resourcekey=0-OFZKp4R1DwIpnsoZfaoWlQ">PDF Link</a></p>
-<h3>2016</h3>
 
 <p><img align="right" src="https://ars.els-cdn.com/content/image/1-s2.0-S1053811915X00188-cov150h.gif"> <strong>Lowe, M.X.</strong>, Gallivan, J.P., Ferber, S., and Cant, J.S. (2016). Feature diagnosticity and task context shape activity in human scene-selective cortex, <em>NeuroImage</em>, 125, 681-692* 
 		<br><strong>*Featured on the journal cover</strong> <a href="https://drive.google.com/file/d/0B0k7R9wesPi2V2M5NnAwWmJwazg/view?usp=sharing&resourcekey=0-Q7B9YE6gD538r5oDaYPEsQ">PDF Link</a></p>
+
+  <br>
 
 <h3>Experimental Psychology</h3>
 
@@ -41,7 +46,6 @@
 		<p>Assaf. H., Mzozoyana, M. Noesen, B., <strong>Lowe, M.X., </strong> and Cant, J.S. (2020). Artificially-generated scenes demonstrate the importance of global scene properties for scene perception. <em>Neuropsychologia</em>, 141, 107434 <a href="https://drive.google.com/file/d/1mIV4DYXxVWtsVRCLz2nE2cpyrjoRHthB/view?usp=sharing">PDF Link</a></p>
 
   		<p><strong>Lowe, M.X., </strong> Stevenson, R.A., Barense, M.D., Cant, J.S., and Ferber, S. (2018). Relating the perception of visual ensemble statistics to individual levels of autistic traits, <em>Attention, Perception, & Psychophysics</em>, 80, 1667-1674 <a href="https://drive.google.com/file/d/1I6O9iZv6ADdyw3iFdDxKHFTFlWmo4E9_/view?usp=sharing">PDF Link</a></p>
-
 
 	<p><strong>Lowe, M.X.</strong>, Stevenson, R.A., Wilson, K.E., Ouslis, N.E., Barense, M.D., Cant, J.S., and Ferber, S. (2016). Sensory processing patterns predict the integration of information held in visual working memory, <em>Journal of Experimental Psychology: Human Perception and Performance</em>, 42(2), 294-301 <a href="https://drive.google.com/file/d/0B0k7R9wesPi2aHZON094TkVtdVU/view?usp=sharing&resourcekey=0-ADZqy2bnylrVtYiqiVUBlQ">PDF Link</a></p>
 	
