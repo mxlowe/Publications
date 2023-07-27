@@ -12,7 +12,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 <br>
   
 <h3>Psychedelics</h3>
-			<p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(in preparation). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca. </p>
+			<p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(under review). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca in Middle Eastern and North African Immigrants and Refugees. </p>
 		
 		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (in preparation). Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study. <a href="https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link">PDF Link to Preprint</a> </p>
 		
