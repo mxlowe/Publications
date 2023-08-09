@@ -21,7 +21,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
   <h3>Cannabis</h3>
 		
-		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. </p> 
+		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. <a href="https://drive.google.com/file/d/1Txtd2jggFYOPPtaWlEsmk_HZHfzPJeok/view?usp=sharing">PDF Link to Preprint</a> </p> 
 
   <br>
 <h3>Auditory Cortex</h3>
