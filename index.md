@@ -19,6 +19,10 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 		<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (under review). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. </p>
   <br>
 
+  		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (in preparation). The wrathful deities: shame, guilt and psychedelic experience. </p>
+
+
+
   <h3>Cannabis</h3>
 		
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (under review). An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data. <a href="https://drive.google.com/file/d/1Txtd2jggFYOPPtaWlEsmk_HZHfzPJeok/view?usp=sharing">PDF Link to Preprint</a> </p> 
