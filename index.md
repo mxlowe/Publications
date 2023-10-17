@@ -12,7 +12,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 <br>
   
 <h3>Psychedelics</h3>
-					<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (in press). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. <em>Frontiers in Psychiatry.</em> </p> 
+					<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (2023). Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey. <em>Frontiers in Psychiatry.</em> </p> 
      
      <p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H.(under review). Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca in Middle Eastern and North African Immigrants and Refugees. </p>
 		
