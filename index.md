@@ -18,7 +18,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 		
 		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (under review). Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study. <a href="https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link">PDF Link to Preprint</a> </p>
 
-  		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., Johnson, M.W., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (under review). Shame, guilt and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. <a href="[https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link](https://osf.io/preprints/psyarxiv/hm6jn/download)">PDF Link to Preprint</a> </p>
+  		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., Johnson, M.W., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (under review). Shame, guilt and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. <a href="https://osf.io/preprints/psyarxiv/hm6jn/download">PDF Link to Preprint</a> </p>
 <br>
 
 
