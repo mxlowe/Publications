@@ -31,7 +31,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
 <p><strong>Lowe, M.X.</strong>*, Mohsenzadeh, Y*, Lahner, B., Charest, I., Oliva, A.^, and Teng, S.^ (2022). Cochlea to categories: The spatiotemporal dynamics of semantic auditory representations. <em>Cognitive Neuropsychology. </em><a href="https://drive.google.com/file/d/1QMwy9DS5p4gR-Uauj61pYtUBe7QUpW2_/view?usp=sharing">PDF Link</a> </p>
 
-<p><strong>Lowe, M.X.</strong>*, Teng, S. Mohsenzadeh, Y. Charest, I. Pantazis, D. and Oliva, A. (2018). Temporal dynamics underlying sound discrimination in the human brain. <em>Proceedings of the CCN. </em><a href="https://ccneuro.org/2018/proceedings/1090.pdf">PDF Link</a> </p>
+<p><strong>Lowe, M.X.</strong>, Teng, S. Mohsenzadeh, Y. Charest, I. Pantazis, D. and Oliva, A. (2018). Temporal dynamics underlying sound discrimination in the human brain. <em>Proceedings of the CCN. </em><a href="https://ccneuro.org/2018/proceedings/1090.pdf">PDF Link</a> </p>
 
 <br>
 
