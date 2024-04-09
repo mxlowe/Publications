@@ -12,9 +12,14 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 <br>
   
 <h3>Psychedelics</h3>
-					<p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (2023). <strong>Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey.</strong> <em>Frontiers in Psychiatry.</em> <a href="https://drive.google.com/file/d/1AeOIksSkF_RW_-ALxNDt-DO4Pcj3_YOV/view?usp=sharing">PDF Link</a> </p> 
+
+  <p>Jones, G., <strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., Sapeda, N., Jackson, H., and Garcia-Romeau, A. (in preparation). <strong>Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: Longitudinal Online Survey Study. </strong> </p>	
+	     
+      <p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H. (2024). <strong>Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca in Middle Eastern and North African Immigrants and Refugees. Frontiers in Psychiatry.</strong> </p>				
      
-     <p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H. (under review). <strong>Long-term Benefits to Psychological Health and Well-being After Ceremonial Use of Ayahuasca in Middle Eastern and North African Immigrants and Refugees.</strong> </p>
+     <p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (2023). <strong>Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey.</strong> <em>Frontiers in Psychiatry.</em> <a href="https://drive.google.com/file/d/1AeOIksSkF_RW_-ALxNDt-DO4Pcj3_YOV/view?usp=sharing">PDF Link</a> </p> 
+     
+
 		
 		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (under review). <strong>Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study.</strong> <a href="https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link">PDF Link to Preprint</a> </p>
 
