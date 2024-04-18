@@ -15,7 +15,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
   <p>Jones, G., <strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., Sapeda, N., Jackson, H., and Garcia-Romeau, A. (in preparation). <strong>Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: Longitudinal Online Survey Study. </strong> </p>	
 	     
-      <p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H. (2024). <strong>Long-term benefits to psychological health and well-being after ceremonial use of Ayahuasca in Middle Eastern and North African immigrants and refugees. <em>Frontiers in Psychiatry </em>, 15, 1279887.</strong> </p>				
+      <p><strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., and Jackson, H. (2024). <strong>Long-term benefits to psychological health and well-being after ceremonial use of Ayahuasca in Middle Eastern and North African immigrants and refugees. </strong><em>Frontiers in Psychiatry </em>, 15, 1279887. </p>				
      
      <p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (2023). <strong>Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey.</strong> <em>Frontiers in Psychiatry.</em> <a href="https://drive.google.com/file/d/1AeOIksSkF_RW_-ALxNDt-DO4Pcj3_YOV/view?usp=sharing">PDF Link</a> </p> 
      
@@ -29,8 +29,9 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
   <h3>Cannabis</h3>
 		
-		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in Press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.<em> BMC Neurology </em></strong>.
+		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in Press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.</strong>.<em> BMC Neurology </em>
 
+  <br>
   <br>
 <h3>Auditory Cortex</h3>
 
