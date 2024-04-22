@@ -19,17 +19,16 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
      
      <p>Nayak, S., Jackson, H., Sepeda, N., So, S., Yaffe, A., Mathai, David. S., So, S.,Yaffe, A., Zaki, H., Brasher, T., <strong> Lowe, M.X.</strong>, Jolly, D.R.P.,  Barrett, F.S., Griffiths, R.R., Strickland, J.C., Johnson, M.W., Jackson, H., Garcia-Romeu, A. (2023). <strong>Naturalistic Psilocybin Use is Associated with Persisting Improvements in Mental Health and Well-being: Results from a Prospective, Longitudinal Survey.</strong> <em>Frontiers in Psychiatry.</em> <a href="https://drive.google.com/file/d/1AeOIksSkF_RW_-ALxNDt-DO4Pcj3_YOV/view?usp=sharing">PDF Link</a> </p> 
      
-
 		
 		<p>Nayak, S., White, S.H., Hilbert, S.N. <strong> Lowe, M.X.</strong>, Jackson, H.,  Griffiths, R.R., and Garcia-Romeu, A. (under review). <strong>Psychedelic Experiences Increase Mind Perception but not Religious Affiliation: A Prospective Longitudinal Study.</strong> <a href="https://drive.google.com/file/d/1hdcO9e8-Hs6JnJa4iGY3X3uUk8p3QlpA/view?usp=drive_link">PDF Link to Preprint</a> </p>
 
-  		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., Johnson, M.W., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (under review). <strong>Shame, guilt and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. </strong><a href="https://osf.io/preprints/psyarxiv/hm6jn/download">PDF Link to Preprint</a> </p>
+  		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., Johnson, M.W., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (in press). <strong>Shame, guilt and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. </strong><em>Journal of Psychoactive Drugs</em> </p>
 <br>
 
 
   <h3>Cannabis</h3>
 		
-		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in Press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.</strong>.<em> BMC Neurology </em>
+		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.</strong>.<em> BMC Neurology </em>
 
   <br>
   <br>
