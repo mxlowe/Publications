@@ -13,7 +13,11 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
   
 <h3>Psychedelics</h3>
 
-  <p>Jones, G., <strong> Lowe, M.X.</strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., Sapeda, N., Jackson, H., and Garcia-Romeau, A. (in preparation). <strong>Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: Longitudinal Online Survey Study. </strong> </p>	
+  <p>Richard, J., Scott, J., Nayak, S., Sepeda, N., <strong>Lowe, M.X, </strong> Jackson, H., & Garcia-Romeu, A. (under review). Latent class analysis of changes in substance use following naturalistic psilocybin use: Results from a prospective longitudinal survey.  </p>
+  
+  <p>Gordon, A.R., Carrithers, B. M., Pagni, B.A., Kettner, H., <strong>Lowe, M.X, </strong> MRes, A.M., Nayak, S.M., Weiss, B.J., Jackson, H., Carhart-Harris, R.L., Roberts, D.E., Erritzoe, D., Garcia-Romeau, A., and Zeifman, R.J. (under review). The Effect of Psychedelics on Individuals with a Personality Disorder: Results from Two Prospective Cohort Studies.  </p>
+  
+  <p>Jones, G., <strong>Lowe, M.X. </strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., Sapeda, N., Jackson, H., and Garcia-Romeau, A. (2025). <strong>Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: Longitudinal Online Survey Study. </strong><em>Journal of Affective Disorders. </em></p>	
   
         		<p>Mathai, D.S., Roberts, D.E., Nayak, S., Sepeda, N., Lehrner, A., Johnson, M.W., <strong> Lowe, M.X.</strong>, Jackson, H., and Garcia-Romeu, A. (under review). <strong>Shame, guilt and psychedelic experience: Results from a prospective, longitudinal survey of real-world psilocybin use. </strong></p>
 
