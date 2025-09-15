@@ -13,9 +13,13 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
   
 <h3>Psychedelics</h3>
 
+<p>Nutt, D., Erritzoe, D., Schlag, A., Luke, D., Mash, D.; Uchida, H., Aday, J. S., Rucker, J., Galindo, L., Sweeney, M., <strong>Lowe, M.X, </strong> Davis, O., Ferreira, P., Zafar, R., Carhart-Harris, R., Hawrot, T., Neill, J. (under review). A lexicon for psychedelic research and treatment. </p>
+ 
+ <p>Reddy, A., Zhao, Y, <strong>Lowe, M.X, </strong> Cai, Z., and Vandrey, R. (under review). Using Epistemic Network Analysis to Explore Cancer Patient Experiences with Cannabis" for possible publication in The Patient - Patient-Centered Outcomes Research. </p>
+  
   <p>Richard, J., Scott, J., Nayak, S., Sepeda, N., <strong>Lowe, M.X, </strong> Jackson, H., & Garcia-Romeu, A. (under review). Latent class analysis of changes in substance use following naturalistic psilocybin use: Results from a prospective longitudinal survey.  </p>
   
-  <p>Gordon, A.R., Carrithers, B. M., Pagni, B.A., Kettner, H., <strong>Lowe, M.X, </strong> MRes, A.M., Nayak, S.M., Weiss, B.J., Jackson, H., Carhart-Harris, R.L., Roberts, D.E., Erritzoe, D., Garcia-Romeau, A., and Zeifman, R.J. (under review). The Effect of Psychedelics on Individuals with a Personality Disorder: Results from Two Prospective Cohort Studies.  </p>
+  <p>4.	Gordon, A. R., Carrithers, B. M., Pagni, B., Kettner, H., Marrocu, A., Nayak, S., Weiss, B. J., Carhart-Harris, R. L., Roberts, D. E., Erritzoe, D., Garcia-Romeu, A., Jackson, H., <strong>Lowe, M.X. </strong>, & Zeifman, R. J. (in press). The effect of psychedelics on individuals with a personality disorder: Results from two prospective cohort studies. Psychedelic Medicine.  </p>
   
   <p>Jones, G., <strong>Lowe, M.X. </strong>, Kettner, H., Jolly, D.R.P., Carhart-Harris, R.L., Sapeda, N., Jackson, H., and Garcia-Romeau, A. (2025). <strong>Examining differences in the effects and contexts of naturalistic psilocybin use for White participants vs. Participants of Color: Longitudinal Online Survey Study. </strong><em>Journal of Affective Disorders. </em></p>	
   
