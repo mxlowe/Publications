@@ -14,8 +14,6 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 <h3>Psychedelics</h3>
 
 <p>Nutt, D., Erritzoe, D., Schlag, A., Luke, D., Mash, D.; Uchida, H., Aday, J. S., Rucker, J., Galindo, L., Sweeney, M., <strong>Lowe, M.X, </strong> Davis, O., Ferreira, P., Zafar, R., Carhart-Harris, R., Hawrot, T., Neill, J. (under review). A lexicon for psychedelic research and treatment. </p>
- 
- <p>Reddy, A., Zhao, Y, <strong>Lowe, M.X, </strong> Cai, Z., and Vandrey, R. (under review). Using Epistemic Network Analysis to Explore Cancer Patient Experiences with Cannabis" for possible publication in The Patient - Patient-Centered Outcomes Research. </p>
   
   <p>Richard, J., Scott, J., Nayak, S., Sepeda, N., <strong>Lowe, M.X, </strong> Jackson, H., & Garcia-Romeu, A. (under review). Latent class analysis of changes in substance use following naturalistic psilocybin use: Results from a prospective longitudinal survey.  </p>
   
@@ -36,7 +34,9 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
 
   <h3>Cannabis</h3>
-		
+ 
+ <p>Reddy, A., Zhao, Y, <strong>Lowe, M.X, </strong> Cai, Z., and Vandrey, R. (under review). Using Epistemic Network Analysis to Explore Cancer Patient Experiences with Cannabis" for possible publication in The Patient - Patient-Centered Outcomes Research. </p>
+  
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.</strong>.<em> BMC Neurology </em>
 
   <br>
