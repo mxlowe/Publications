@@ -35,7 +35,7 @@ Dr. Lowe has published on a range of topics in psychedelics, cannabis, visual an
 
   <h3>Cannabis</h3>
  
- <p>Reddy, A., Zhao, Y, <strong>Lowe, M.X, </strong> Cai, Z., and Vandrey, R. (under review). Using Epistemic Network Analysis to Explore Cancer Patient Experiences with Cannabis" for possible publication in The Patient - Patient-Centered Outcomes Research. </p>
+ <p>Reddy, A., Zhao, Y, <strong>Lowe, M.X, </strong> Cai, Z., and Vandrey, R. (under review). <strong> Using Epistemic Network Analysis to Explore Cancer Patient Experiences with Cannabis" for possible publication in The Patient - Patient-Centered Outcomes Research.</strong> </p>
   
 		<p>Brett, B., Conroy, M., Doshi, H., <strong>Lowe, M.X., </strong> Kalcheff-Korn, S., and Jackson, H. (in press). <strong>An Observational Study of Adjunctive Artisanal Cannabidiol Use by Adults with Treatment Resistant Epilepsies: Behavioral and Urinalysis Data.</strong>.<em> BMC Neurology </em>
 
